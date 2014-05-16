@@ -1,0 +1,3 @@
+name: node-http-example
+description: Node.js HTTP example
+mem: 128M
