@@ -1,3 +1,5 @@
+// stackato login
+// stackato push -n
 var port = process.env.PORT || 1337;
 var host = process.env.VCAP_APP_HOST || "127.0.0.1";
 var http = require('http');
